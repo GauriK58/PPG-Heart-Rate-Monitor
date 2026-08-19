@@ -140,6 +140,8 @@ Averaging over 4 cycles on the oscilloscope gave a measured heart rate of **89 B
 
 ## PPG Waveform
 
+![PPG waveform](images/ppg_waveform.png)
+
 The PPG waveform has a large DC component (from constant absorption by tissue, venous blood, and non-pulsatile arterial blood) with a small AC pulsatile component riding on top (from the periodic change in arterial blood volume through the cardiac cycle). During systole, increased blood volume absorbs more light, reducing the photocurrent and dipping the TIA output; during diastole, blood volume drops, more light reaches the photodiode, and the output rises. This produces the characteristic dip-and-rise PPG pulse shape.
 
 ---
