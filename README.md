@@ -151,5 +151,5 @@ The PPG waveform has a large DC component (from constant absorption by tissue, v
 | Tool | Purpose |
 |---|---|
 | **LTSpice** | Circuit simulation, transient and AC/Bode analysis for every stage |
-| **Digital Storage Oscilloscope (Keysight)** | Hardware waveform verification and Frequency Response Analysis |
+| **Digital Storage Oscilloscope** | Hardware waveform verification and Frequency Response Analysis |
 | **Arduino Uno** | Digital pulse capture and BPM calculation |
